@@ -48,7 +48,7 @@ nav{
     width: 100%;
     top: 0%;
     .container{
-        margin-top: 34px;
+        margin-block: 24px;
     }
     .-navbar-logo a{
         font-size: 24px;
